@@ -1,0 +1,17 @@
+/*The East Coast sales division of a company generates 58 percent of total sales. Based on that percentage, 
+write a program that will predict how much the East Coast division will generate if the company has $8.6 million in sales this year.
+
+#include <iostream>
+using namespace std;
+
+int  main(){
+double eastCoastTot,companyTot;
+const float lootP 0.58;
+
+companyTot = 8,600,000;
+eastCoastTot = companyTot * lootP; //math stuff
+cout<<"East Coast division will generate: $"<<eastCoastTot<<endl; //display total should read 4,988,000
+
+return 0; //end statement
+}
+//End Function
