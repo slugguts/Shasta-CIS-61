@@ -1,0 +1,13 @@
+#include <iostream>
+using namespace std;
+
+int  main(){
+
+double a,b,c,d,e,total,grandTotal;
+a = 28; b = 32; c = 37; d = 24; e = 33; //set variable values
+ total = a+b+c+d+e;//add variables
+grandTotal = total / 5; // average the sum
+cout<<"Average:"<<grandTotal<<end1; //display string and variable values
+
+return 0; //end statement
+}

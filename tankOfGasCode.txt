@@ -1,0 +1,12 @@
+#include <iostream>
+using namespace std;
+
+int  main(){
+
+double milesPerGal;
+double totalGasAvereage = 26.2; double totalMilesTank = 20; //set variable values
+milesPerGal = totalGasAverage * totalMilesTank; //multiply mpg by tank size
+cout<<"Distance:"<<milesPerGal; //display string and variable values
+
+return 0; //end statement
+}
