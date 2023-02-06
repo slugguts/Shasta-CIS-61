@@ -11,8 +11,8 @@ int main()
 	totalPrice = taxTotal * retailItemPrice; //apply tax to item's price
 	
 cout<<"Purchase Price:"<<retailItemPrice<<end1; //Item's original price
-cout<<"State Tax:"<<stateTax<<end1; //display state tax
-cout<<"County Tax:"<<countyTax<<end1; //display county tax
-cout<<"Total Tax:"<<taxTotal<end1;	//display total tax
-cout<<"Total Price:"<<totalPrice<<end1 //display total item price
+cout<<"State Tax:"<<stateTax<<endl; //display state tax
+cout<<"County Tax:"<<countyTax<<endl; //display county tax
+cout<<"Total Tax:"<<taxTotal<endl;	//display total tax
+cout<<"Total Price:"<<totalPrice<<endl; //display total item price
 return 0;} //end of statement
