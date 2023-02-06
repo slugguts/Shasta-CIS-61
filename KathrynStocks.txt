@@ -1,0 +1,22 @@
+/*Stock Loss
+
+Kathryn bought 750 shares of stock at a price of $35.00 per share. A year later she sold them for just $31.15 per share. Write a program that calculates and displays the following:
+
+The total amount paid for the stock.
+The total amount received from selling the stock.
+The total amount of money she made or lost.*/
+
+#include <iostream>
+using namespace std;
+
+int  main(){
+double totalPaid, totalRec, capitalG;
+totalPaid = 750 * 35.00;
+totalRecieved = 750 * 31.15;
+totalRecieved - totalPaid = capitalG;
+cout<<"Capital Gain: "<<capitalG<<" Dollars"<<endl
+
+
+return 0; //end statement
+}
+//End Function
