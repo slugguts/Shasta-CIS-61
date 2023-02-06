@@ -6,7 +6,7 @@ int  main(){
 double milesPerGal;
 double totalGas = 16; double totalMiles = 312; //set variable values
 milesPerGal = totalMiles / totalGas; //divide miles by gas used
-cout<<"MPG:"<<milesPerGal; //display string and variable values
+cout<<"MPG:"<<milesPerGal<<endl; //display string and variable values
 
 return 0; //end statement
 }
