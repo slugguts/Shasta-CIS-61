@@ -10,7 +10,7 @@ int main()
 	cin >> retailItem >> retailItemPrice; // Input values from specific item
 	totalPrice = taxTotal * retailItemPrice; //apply tax to item's price
 	
-cout<<"Purchase Price:"<<retailItemPrice<<end1; //Item's original price
+cout<<"Purchase Price:"<<retailItemPrice<<endl; //Item's original price
 cout<<"State Tax:"<<stateTax<<endl; //display state tax
 cout<<"County Tax:"<<countyTax<<endl; //display county tax
 cout<<"Total Tax:"<<taxTotal<endl;	//display total tax
