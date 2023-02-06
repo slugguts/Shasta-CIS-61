@@ -13,6 +13,6 @@ int main()
 cout<<"Purchase Price:"<<retailItemPrice<<endl; //Item's original price
 cout<<"State Tax:"<<stateTax<<endl; //display state tax
 cout<<"County Tax:"<<countyTax<<endl; //display county tax
-cout<<"Total Tax:"<<taxTotal<endl;	//display total tax
+cout<<"Total Tax:"<<taxTotal<<endl;	//display total tax
 cout<<"Total Price:"<<totalPrice<<endl; //display total item price
 return 0;} //end of statement
