@@ -1,0 +1,11 @@
+#include <iostream>
+using namespace std;
+
+int  main(){
+
+double starPlayerHeight = 74 % 12 , starPfeet = 6; //Initialize variables, declare values
+;
+cout<<"Height is "<<"Feet: "starPfeet<<" Inches: "<<starPlayerHeight<<endl
+return 0; //end statement
+}
+//End Function
